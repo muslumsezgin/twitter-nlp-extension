@@ -1,0 +1,16 @@
+/* src/content.css */
+
+.my-extension{
+    padding: 5px;
+}
+
+.my-extension h1{
+    color: #000;
+}
+.settings {
+    position: absolute;
+    bottom:0;
+    height: 150px;
+    width: 100%;
+    background-color: #47d3d9;
+}

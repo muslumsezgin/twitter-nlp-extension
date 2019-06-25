@@ -1,0 +1,39 @@
+.blur-tweet {
+  -webkit-filter: blur(3px);
+  -moz-filter: blur(3px);
+  -o-filter: blur(3px);
+  -ms-filter: blur(3px);
+  filter: blur(3px);
+}
+
+.show-negative-info {
+  display: block;
+  margin: auto;
+  text-align: center;
+  color: #e0245e;
+  padding: 2px;
+}
+
+.icon-sentiment-positive {
+  color: #17bf63
+}
+
+.icon-sentiment-negative {
+  color: #e0245e
+}
+
+.none-cursor {
+  cursor: default;
+}
+
+.pointer-cursor {
+  cursor: pointer;
+}
+
+.none-border {
+  border-bottom: 0px solid #ffffff
+}
+
+.tweet-border {
+  border-bottom: 1px solid #e6ecf0
+}
